@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\bin\Debug\netcoreapp3.1\Generics_4.exe
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\bin\Debug\netcoreapp3.1\Generics_4.deps.json
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\bin\Debug\netcoreapp3.1\Generics_4.runtimeconfig.json
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\bin\Debug\netcoreapp3.1\Generics_4.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\bin\Debug\netcoreapp3.1\Generics_4.dll
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\bin\Debug\netcoreapp3.1\Generics_4.pdb
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\obj\Debug\netcoreapp3.1\Generics_4.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\obj\Debug\netcoreapp3.1\Generics_4.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\obj\Debug\netcoreapp3.1\Generics_4.dll
+C:\Users\Admin\source\repos\Generics\Generics_4\Generics_4\obj\Debug\netcoreapp3.1\Generics_4.pdb
